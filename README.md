@@ -1,4 +1,4 @@
-# Math Puzzle — Hand Gesture Game 🧮✋
+# Math Puzzle — Hand Gesture Game
 
 An interactive math balancing game that uses **OpenCV** and **MediaPipe** hand tracking. Drag numbers and operators into empty chambers using pinch gestures to make both sides of the equation equal.
 
